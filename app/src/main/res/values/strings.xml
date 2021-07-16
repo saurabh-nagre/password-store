@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Password Store</string>
+    <string name="addbutton">Add Button</string>
+    <string name="search">Search</string>
+    <string name="edit">Edit</string>
+    <string name="delete">Delete</string>
+    <string name="favorite">Favorite</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="addpassword">Add New Password</string>
+    <string name="addname">Name:</string>
+    <string name="addpass">Password:</string>
+    <string name="addnamehint">Enter Name For Your Password</string>
+    <string name="addpasshint">Enter Password Or Press Generate Password</string>
+    <string name="add">ADD</string>
+    <string name="generatepassword">Generate Password</string>
+    <string name="updatepassword">Update Password</string>
+    <string name="update">Update</string>
+    <string name="deleteall">Clear All Data</string>
+</resources>
